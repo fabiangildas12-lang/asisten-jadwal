@@ -1,7 +1,7 @@
 // CONFIGURATION (Ganti dengan API Key milikmu nanti)
 const SUPABASE_URL = "https://URL_PROJECT_SUPABASE_ANDA.supabase.co";
 const SUPABASE_KEY = "KEY_PUBLIC_SUPABASE_ANDA";
-const GEMINI_API_KEY = "API_KEY_GEMINI_ANDA";
+const GEMINI_API_KEY = "AQ.Ab8RN6Il1Qux4EYsK0Vo2J0FqZnen7PD7yGnxpDFA1Mp059RjA";
 
 // Inisialisasi SDK Supabase
 const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
